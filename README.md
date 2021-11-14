@@ -1,7 +1,7 @@
-Exploratory Data Analysis Project 
+#Exploratory Data Analysis Project 
 
 
-Brief about the Databset
+#Brief about the Databset
 
 This dataset contains rankings of the world universities by Quacquarelli Symmonds. The database contains 3 tables talking about 
 university ranking with a thousand universities in a different countries around the world.the ranking depends on different 6 factors
@@ -9,7 +9,7 @@ used in ranking system.the database that is available to us is for three years b
 
 
 
-Workflow Of The Project
+#Workflow Of The Project
 
 Step 1 Ask Questions:
 
