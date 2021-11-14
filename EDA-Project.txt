@@ -1,28 +1,11 @@
 Exploratory Data Analysis Project 
 
 
-Brief about the Database
+Brief about the Databset
 
-The databse contains 6 tables talking about university ranking with a thousand universities in 74 different countries around the world. 
-the ranking depends on 3 ranking systems, and different criteria used in each ranking system.the database that is available to us
-is from 2011 till 2016.
-
-
-Table Explanations
-
-
-country: This is a simple list of countries that were in the data set. I don’t think it’s a complete list of all countries, but it’s enough for this data set.
-
-university: A list of universities that were ranked in this system. Each university is related to a country.
-
-ranking_system: This contains the three different ranking systems used: Times Higher Education World University Ranking, Shanghai Ranking, and Center for World University Rankings.
-
-ranking_criteria: This table contains the different criteria used in each ranking system, such as Citations and Quality of Education. It also contains criteria for Total Score for each system.
-
-university_year: The university_year table contains values for measurements such as the number of students and the student to staff ratio for each university in several years.
-
-university_ranking_year: This table contains the score for each year for each university and ranking criteria. It’s the largest table in the database.
-
+This dataset contains rankings of the world universities by Quacquarelli Symmonds. The database contains 3 tables talking about 
+university ranking with a thousand universities in a different countries around the world.the ranking depends on different 6 factors
+used in ranking system.the database that is available to us is for three years began from 2017 till 2020.
 
 
 
@@ -30,14 +13,13 @@ Workflow Of The Project
 
 Step 1 Ask Questions:
 
-1-	Does the score for each university have differ in the different ranking system?
-2-	Which university get improve over the years?
-3-	Which are the universities that have Kept their ranking over the years?
-4-	What is the journey of Saudi universities on the university ranking?
-
+1- Which are the universities that have Kept their ranking over the years?
+2- Which university get improve over the years?
+3- What is the journey of Saudi universities on the university ranking?
+	
 
 Step 2 Collect And Clean Data:
 
-Data Collect: The data was searched and collected during the past week, i have find the data from Database star website. 
+Data Collect: The data was searched and collected during the past week, i have find the data from Quacquarelli Symmonds website.
 
 
