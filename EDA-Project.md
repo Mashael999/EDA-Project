@@ -34,7 +34,7 @@ This dataset contains rankings of the world universities by Quacquarelli Symmond
 <h5>Data Collect:
 The data was searched, collected, and arranged during the past week, i have find the data from kaggle.
 </ul>
-Clean data:
+<h5>Clean data:
 <li>removed all the rows that contain null in overall scors column and most of the scors columns contain null, and in this dataset they put '-' as null also .
 <li>changed some of the columns name to be more clear and uniform for all the tables. 
 <li>changed type of some columns from objectv to float
