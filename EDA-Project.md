@@ -1,10 +1,13 @@
 # <h1>Exploratory Data Analysis Project 
 
 
-# Brief about the Databset
+# Introduction
 When a high school graduate is deciding between five different colleges or more,  the rankings make it easier to determine what makes one college different from the others.
 
 A high school graduate comes to me and ask to do a simple analyze in specific system ranking which is Quacquarelli Symmonds system, to check the information in the rank and to compering the rank of the universities over the last three years. 
+
+
+# Brief about the Databset
 
 This dataset contains rankings of the world universities by Quacquarelli Symmonds. The database contains 3 tables for each year talking about universities ranking with a thousand universities in different countries around the world. QS uses 6 factors for their ranking framework wiz. Academic Reputation, Employer Reputation, Faculty to Student Ratio, Number of citations per faculty, International Faculty, International Students. Another feature included in this data was Classification (which is not used for ranking) which included the institution's size, subject range, research intensity, age, and status. the database that is available to us is for three years began from 2017 till 2020.
 
