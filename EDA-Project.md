@@ -4,7 +4,8 @@
 # Introduction
 When a high school graduate is deciding between five different colleges or more,  the rankings make it easier to determine what makes one college different from the others.
 
-A high school graduate comes to me and asks to do a simple analysis in specific system ranking which is the Quacquarelli Symmonds system, to check the information in the rank and to compare the rank of the universities over the last three years. 
+A high school graduate comes to me and asks to do a simple analysis in Quacquarelli Symmonds system ranking, and answer some questions he asked. 
+
 
 # Brief about the Databset
 
