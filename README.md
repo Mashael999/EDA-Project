@@ -1,9 +1,6 @@
 # Exploratory Data Analysis Project: World University Ranking
 This project is done during SDAIA Academy bootcamp of Data Science and AI.
 
-<p align="center" width="100%">
-<img src=""/>
-</p>
 
 
 # About the repository:
