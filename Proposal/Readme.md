@@ -1,4 +1,4 @@
-# <h1>Exploratory Data Analysis Project 
+# <h1>World University Ranking Project 
 
 
 ## Introduction
